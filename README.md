@@ -3,7 +3,7 @@
 これは簡単なToDoリストアプリです。  
 ブラウザ上でタスクを追加・削除できます。
 
-## � 公開ページ（GitHub Pages）
+## 公開ページ（GitHub Pages）
 https://Masa-eba.github.io/todo-app/
 
 ##  使用技術
